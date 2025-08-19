@@ -1,4 +1,6 @@
 # Getting started with the code base
+## [Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison](https://ieeexplore.ieee.org/document/10928092)
+> P. Singh Rathore, A. Balana, R. Bhaumik, V. Pattanaik, P. Rathore
 
 This readme provides the basic overview of how the code looks like. The entire codebase has been divided into two main parts:
 1. Training
@@ -9,6 +11,7 @@ Both have separate instructions, although dependencies are mostly same so having
 
 ## 📚 Table of Contents
 - [Getting started with the code base](#getting-started-with-the-code-base)
+  - [Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison](#benchmarking-object-detection-and-tracking-for-uavs-an-algorithmic-comparison)
   - [📚 Table of Contents](#-table-of-contents)
   - [📌 Project Overview](#-project-overview)
     - [Object Detection](#object-detection)
