@@ -1,0 +1,18 @@
+[submodule "BoT-SORT"]
+	path = BoT-SORT
+	url = https://github.com/NirAharon/BoT-SORT.git
+[submodule "SMILEtrack"]
+	path = SMILEtrack
+	url = https://github.com/WWangYuHsiang/SMILEtrack.git
+[submodule "ByteTrack"]
+	path = ByteTrack
+	url = https://github.com/FoundationVision/ByteTrack
+[submodule "deep_sort_pytorch"]
+	path = deep_sort_pytorch
+	url = https://github.com/ZQPei/deep_sort_pytorch.git
+[submodule "StrongSORT"]
+	path = StrongSORT
+	url = https://github.com/dyhBUPT/StrongSORT.git
+[submodule "Yolov7_StrongSORT_OSNet"]
+	path = Yolov7_StrongSORT_OSNet
+	url = https://github.com/mikel-brostrom/Yolov7_StrongSORT_OSNet.git
