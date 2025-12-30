@@ -1,6 +1,7 @@
-# Getting started with the code base
-## [Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison](https://ieeexplore.ieee.org/document/10928092)
-> P. Singh Rathore, A. Balana, R. Bhaumik, V. Pattanaik, P. Rathore
+# Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison
+
+<!-- ## Getting started with the code base -->
+> P. S. Rathore, A. Balana, R. Bhaumik, V. Pattanaik, P. Rathore
 
 This readme provides the basic overview of how the code looks like. The entire codebase has been divided into two main parts:
 1. Training
@@ -10,8 +11,7 @@ Both have separate instructions, although dependencies are mostly same so having
 (Detailed instruction on creating environment is present in the `training` folder)
 
 ## 📚 Table of Contents
-- [Getting started with the code base](#getting-started-with-the-code-base)
-  - [Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison](#benchmarking-object-detection-and-tracking-for-uavs-an-algorithmic-comparison)
+- [Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison](#benchmarking-object-detection-and-tracking-for-uavs-an-algorithmic-comparison)
   - [📚 Table of Contents](#-table-of-contents)
   - [📌 Project Overview](#-project-overview)
     - [Object Detection](#object-detection)
@@ -21,6 +21,7 @@ Both have separate instructions, although dependencies are mostly same so having
     - [Additional Documentation](#additional-documentation)
     - [Extra](#extra)
   - [📬 Feedback](#-feedback)
+  - [Cite](#cite)
 
 ## 📌 Project Overview
 ### Object Detection
@@ -72,3 +73,21 @@ For Object tracking we experimented with five tracking algorithms:
 
 Please feel free to report issues or submit requests bug fixes via [email](mailto:parikshits@iisc.ac.in?cc=vishwajeetp@iisc.ac.in,prathore@iisc.ac.in&subject=Bug%20Report%20-%20BEL%20UAV%20Project)!
 
+## Cite
+**Plain Text**
+```
+Rathore, P.S., Aarti Balana, Bhaumik, R., Vishwajeet Pattanaik and Rathore, P. (2024). Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison. [online] pp.1–6. doi:https://doi.org/10.1109/icves61986.2024.10928092.
+```
+**Bibtext**
+```
+@INPROCEEDINGS{10928092,
+  author={Singh Rathore, Parikshit and Balana, Aarti and Bhaumik, Romit and Pattanaik, Vishwajeet and Rathore, Punit},
+  booktitle={2024 IEEE International Conference on Vehicular Electronics and Safety (ICVES)}, 
+  title={Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Performance evaluation;Vehicular and wireless technologies;Target tracking;Image edge detection;Computational modeling;Object detection;Detectors;Autonomous aerial vehicles;Safety;Feeds;edge analytics;UAVs;object detection;tracking},
+  doi={10.1109/ICVES61986.2024.10928092}}
+```
