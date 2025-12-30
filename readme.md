@@ -20,7 +20,6 @@ Both have separate instructions, although dependencies are mostly same so having
   - [📁 Project Structure](#-project-structure)
     - [Additional Documentation](#additional-documentation)
     - [Extra](#extra)
-  - [📬 Feedback](#-feedback)
   - [Cite](#cite)
 
 ## 📌 Project Overview
@@ -69,9 +68,9 @@ For Object tracking we experimented with five tracking algorithms:
 ### Extra
 - For custom detection model and classes, the code is modularized enough to use with any detection model, just make sure the bounding box output format of the detection is in TLWH or TLBR or XCYCWH format
 
-## 📬 Feedback
+<!-- ## 📬 Feedback
 
-Please feel free to report issues or submit requests bug fixes via [email](mailto:parikshits@iisc.ac.in?cc=vishwajeetp@iisc.ac.in,prathore@iisc.ac.in&subject=Bug%20Report%20-%20BEL%20UAV%20Project)!
+Please feel free to report issues or submit requests bug fixes via [email](mailto:parikshits@iisc.ac.in?cc=vishwajeetp@iisc.ac.in,prathore@iisc.ac.in&subject=Bug%20Report%20-%20BEL%20UAV%20Project)! -->
 
 ## Cite
 **Plain Text**
