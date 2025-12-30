@@ -78,7 +78,7 @@ Please feel free to report issues or submit requests bug fixes via [email](mailt
 ```
 Rathore, P.S., Aarti Balana, Bhaumik, R., Vishwajeet Pattanaik and Rathore, P. (2024). Benchmarking Object Detection and Tracking for UAVs: An Algorithmic Comparison. [online] pp.1–6. doi:https://doi.org/10.1109/icves61986.2024.10928092.
 ```
-**Bibtext**
+**BibTeX**
 ```
 @INPROCEEDINGS{10928092,
   author={Singh Rathore, Parikshit and Balana, Aarti and Bhaumik, Romit and Pattanaik, Vishwajeet and Rathore, Punit},
